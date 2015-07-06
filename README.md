@@ -1,4 +1,3 @@
-# DeleteAndroidUnusedResources
 ##Delete Android project unused resources
 ###Usage
  1. 配置java运行环境
